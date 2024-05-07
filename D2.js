@@ -24,6 +24,8 @@ if (num !== 5) {
 let num;
 if (num % 5 === 0) {
   console.log("divisibile per 5");
+} else {
+  console.log("non divisibile per 5");
 }
 
 /* ESERCIZIO 4
@@ -31,6 +33,14 @@ if (num % 5 === 0) {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+/* const num1 = 5;
+const num2 = -3;
+if (num1 === 8 || num2 === 8 || num1 + num2 === 8 || num1 - num2 === 8 || num2 - num1 === 8) {
+  console.log("true");
+} else {
+  console.log("false");
+} */
 
 /* ESERCIZIO 5
   Stai lavorando su un sito di e-commerce. Stai salvando il saldo totale del carrello dell'utente in una variabile "totalShoppingCart".
