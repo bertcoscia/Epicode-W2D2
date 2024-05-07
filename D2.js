@@ -10,6 +10,11 @@
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+const num = 4;
+if (num !== 5) {
+  console.log("not equal");
+}
+
 /* ESERCIZIO 3
   Scrivi un algoritmo che mostri "divisibile per 5" in console se un numero fornito è perfettamente divisibile per 5 (suggerimento: usa l'operatore modulo)
 */
@@ -76,10 +81,10 @@
 */
 
 const me = {
-  name: 'John',
-  lastName: 'Doe',
-  skills: ['javascript', 'html', 'css'],
-}
+  name: "John",
+  lastName: "Doe",
+  skills: ["javascript", "html", "css"],
+};
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
