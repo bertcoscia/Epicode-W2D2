@@ -231,3 +231,7 @@ console.log(numbers);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+numbers.pop();
+numbers.push(100);
+console.log(numbers);
