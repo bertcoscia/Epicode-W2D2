@@ -4,6 +4,15 @@
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+const num1 = 5;
+const num2 = 10;
+
+if (num1 > num2) {
+  console.log("Il numero più grande è " + num1);
+} else {
+  console.log("Il numero più grande è " + num2);
+}
+
 /* ESERCIZIO 2
   Scrivi un algoritmo che mostri "not equal" in console se un numero intero fornito è diverso da 5.
 */
