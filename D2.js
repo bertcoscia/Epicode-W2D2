@@ -21,12 +21,12 @@ if (num !== 5) {
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let num;
+/* let num;
 if (num % 5 === 0) {
   console.log("divisibile per 5");
 } else {
   console.log("non divisibile per 5");
-}
+} */
 
 /* ESERCIZIO 4
   Scrivi un algoritmo per verificare che, dati due numeri interi, il valore di uno di essi sia 8 oppure se la loro addizione/sottrazione sia uguale a 8.
@@ -49,6 +49,16 @@ if (num1 === 8 || num2 === 8 || num1 + num2 === 8 || num1 - num2 === 8 || num2 -
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+/* 
+let totalShoppingCart;
+if (totalShoppingCart <= 50) {
+  totalShoppingCart = totalShoppingCart + 10;
+  console.log("Spesa di spedizione: €10");
+  console.log("Totale: €" + totalShoppingCart);
+} else {
+  console.log("Spedizione gratuita!");
+  console.log("Totale: €" + totalShoppingCart);
+} */
 
 /* ESERCIZIO 6
   Stai lavorando su un sito di e-commerce. Oggi è il Black Friday e viene applicato il 20% su ogni prodotto.
