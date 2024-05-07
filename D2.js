@@ -194,6 +194,9 @@ const me = {
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+me.city = "Toronto";
+console.log(me);
+
 /* ESERCIZIO 12
   Lavorando sempre sull'oggetto precedentemente fornito, scrivi del codice per rimuovere la proprietà "lastName".
 */
