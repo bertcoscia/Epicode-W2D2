@@ -102,6 +102,24 @@ if (isBlackFriday === true) {
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+/* const a = 100;
+const b = 1;
+const c = 1000;
+
+if (a > b && b > c) {
+    console.log(a, b, c)
+} else if (a > c && c > b) {
+    console.log(a, c, b)
+} else if (b > a && a > c) {
+    console.log(b, a, c)
+} else if (b > c && c > a) {
+    console.log(b, c, a)
+} else if (c > b && b > a) {
+    console.log(c, b, a)
+} else {
+    console.log(c, a ,b)
+} */
+
 /* ESERCIZIO 8
   Crea un algoritmo per verificare che un valore fornito sia un numero oppure no (suggerimento: cerca su un motore di ricerca "typeof").
 */
