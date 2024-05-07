@@ -49,6 +49,7 @@ if (num1 === 8 || num2 === 8 || num1 + num2 === 8 || num1 - num2 === 8 || num2 -
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
 /* 
 let totalShoppingCart;
 if (totalShoppingCart <= 50) {
@@ -66,6 +67,32 @@ if (totalShoppingCart <= 50) {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+/* let totalShoppingCart;
+const isBlackFriday = true;
+
+if (isBlackFriday === true) {
+  totalShoppingCart = totalShoppingCart - (totalShoppingCart / 100 * 20);
+  if (totalShoppingCart <= 50) {
+    totalShoppingCart = totalShoppingCart + 10;
+    console.log("Sconto Black Friday: -20%");
+    console.log("Spesa di spedizione: €10");
+    console.log("Totale: €" + totalShoppingCart)
+  } else {
+    console.log("Sconto Black Friday: -20%");
+    console.log("Spedizione gratuita!");
+    console.log("Totale: €" + totalShoppingCart)
+  }
+} else {
+  if (totalShoppingCart <= 50) {
+    totalShoppingCart = totalShoppingCart + 10;
+    console.log("Spesa di spedizione: €10");
+    console.log("Totale: €" + totalShoppingCart)
+  } else {
+    console.log("Spedizione gratutita!");
+    console("Totale: €" + totalShoppingCart)
+  }
+} */
 
 /* ESERCIZIO 7
   Crea tre variabili, e assegna un valore numerico a ciascuna di esse.
