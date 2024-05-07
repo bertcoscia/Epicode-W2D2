@@ -212,7 +212,7 @@ console.log(me);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-delete me.skills.pop();
+me.skills.pop();
 console.log(me);
 
 /* ESERCIZIO 14
