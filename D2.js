@@ -126,6 +126,14 @@ if (a > b && b > c) {
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+/* const num = 26;
+
+if (typeof num === "number") {
+  console.log("num è una variabile di tipo number")
+} else {
+  console.log("num non è una variabile di tipo number")
+} */
+
 /* ESERCIZIO 9
   Crea un algoritmo per controllare se un numero fornito sia pari o dispari (suggerimento: cerca l'operatore modulo su un motore di ricerca)
 */
