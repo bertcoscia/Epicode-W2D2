@@ -140,6 +140,14 @@ if (typeof num === "number") {
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+/* const num = 10;
+
+if (num % 2 === 0) {
+  console.log(num + " è un numero pari")
+} else {
+  console.log(num + " è un numero dispari")
+} */
+
 /* ESERCIZIO 10
   Modifica la logica del seguente algoritmo in modo che mostri in console il messaggio corretto in ogni circostanza.
   let val = 7
