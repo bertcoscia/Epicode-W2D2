@@ -241,6 +241,11 @@ console.log(numbers);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-numbers.pop();
+/* numbers.pop();
 numbers.push(100);
+console.log(numbers); */
+
+/* oppure;
+ */
+numbers[numbers.length - 1] = 100;
 console.log(numbers);
